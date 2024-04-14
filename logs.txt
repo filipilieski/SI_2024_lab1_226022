@@ -1,0 +1,37 @@
+$ git log
+commit 457ff37f5380c97027274929627155fa16c077b1 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: filipilieski <filipilieski27@gmail.com>
+Date:   Sun Apr 14 16:29:36 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit ea2680cec462c636f160e82245981a39d7b4490a
+Author: filipilieski <filipilieski27@gmail.com>
+Date:   Sun Apr 14 16:19:58 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit e44ff5475f3031624f6fc873c0f0fcab635f598e (origin/bug1, bug1)
+Author: filipilieski <filipilieski27@gmail.com>
+Date:   Sun Apr 14 16:25:16 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 78f8d99f67c2760359a8d380f23da93d8494eac3
+Author: filipilieski <filipilieski27@gmail.com>
+Date:   Sun Apr 14 16:15:44 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 27e0fbba2e325039557d539a2f066223b6543c7f
+Author: filipilieski <filipilieski27@gmail.com>
+Date:   Sun Apr 14 14:50:43 2024 +0200
+
+    Add starter code
+
+commit eee8791932f636387adf4e70172c32e2dcccd087
+Author: filipilieski <filipilieski27@gmail.com>
+Date:   Sun Apr 14 14:47:16 2024 +0200
+
+    Initial commit
+:
